@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.h1{
+    box-sizing: border-box;
+    background-color: rgb(73, 70, 70);
+    color: white;
+    height: 300px;
+    width: 400px;
+    font-size: xx-large;
+    padding: 130px;
+    margin: 40px;
+    opacity: 0.6 ;
+}
+.h1:hover{
+    box-sizing: border-box;
+    background-color: rgb(73, 70, 70);
+    color: white;
+    height: 300px;
+    width: 400px;
+    font-size: xx-large;
+    padding: 130px;
+    margin: 40px;
+    opacity: 1 ;
+}
